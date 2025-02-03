@@ -20,7 +20,7 @@
 ## 📚 **Tech Stack**
 - **Frontend:** Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** PostgreSQL
+- **Database:** MongoDB
 - **Real-time Communication:** WebSockets, Twilio API (planned)
 - **Version Control:** GitHub integration (for code projects)
 
